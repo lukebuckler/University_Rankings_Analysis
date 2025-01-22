@@ -106,21 +106,4 @@ university-rankings/
 2. Technical Enhancements:
    - Advanced filtering options
    - Export functionality
-   - API integration
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit changes
-4. Push to the branch
-5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-Your Name - [your.email@example.com]
-Project Link: [https://github.com/yourusername/university-rankings-analysis]
